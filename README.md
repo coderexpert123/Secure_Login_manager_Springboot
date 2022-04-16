@@ -9,7 +9,7 @@ A login form is what your website's visitors will use to login to your website t
 
 ## Deployment
 
-To deploy this project run
+Dependencies 
 
 ```bash
 
